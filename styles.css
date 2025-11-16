@@ -395,10 +395,12 @@ body {
 }
 
 /* Experiences Grid */
+
 .experiences-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 30px;
+  gap: 10px;
+  /* color:aqua; */
 }
 
 .experience-item {
